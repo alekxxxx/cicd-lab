@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Version 1.0: Hello, world!"
+echo "Version 1.1: updated from web!"
